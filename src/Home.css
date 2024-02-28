@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.Home {
+  background-color: #d26275;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.color {
+  color: #3f9e00;
+}
