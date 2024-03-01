@@ -13,3 +13,16 @@
 .color {
   color: #3f9e00;
 }
+
+.imgButton {
+  margin: 4vh;
+}
+
+.buttonField {
+  display: flex;
+  /* flex-direction: row; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  width: 80vh;
+  flex-wrap: wrap;
+}
