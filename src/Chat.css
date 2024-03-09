@@ -1,0 +1,14 @@
+.Chat {
+  text-align: center;
+}
+
+.sendButton {
+  background-color: #4CAF50;
+  border-radius: 10px;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.9;
+}
